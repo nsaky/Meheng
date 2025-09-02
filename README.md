@@ -16,14 +16,13 @@ Meheng is packed with over 30 features that make your life easier and more engag
 
 ### 🚀 Powerful Task Automation
 
-* **Messaging:** Send WhatsApp messages to your contacts with simple voice commands, keeping you connected hands-free.
 * **Web & Media:** Effortlessly open websites, play music, and find videos on platforms like YouTube, giving you complete control over your media experience.
-* **Real-time Information:** Get instant weather updates for your current location and find nearby places like restaurants, hospitals, or gas stations using real-time APIs.
+* **Real-time Information:** Get instant weather updates for your current location and find nearby places like restaurants, hospitals, or gas stations using real-time data.
 * **News & Information:** Stay informed with the latest news headlines and summaries from various sources.
 
 ### 🔒 Secure & Responsible
 
-* **User & Admin Management:** Meheng includes a robust system for secure login and profile management for both users and administrators.
+* **User & Admin Management:** Meheng includes a robust system, made from scratch, for secure login and profile management for both users and administrators.
 * **Advanced Chat Logging:** All user queries and Meheng's responses are securely stored in a MySQL database. This chat history is viewable by both the user and the administrator, ensuring transparency and accountability.
 * **Content Moderation:** The system automatically detects and flags objectionable or unsafe queries (e.g., related to violence, self-harm, or suicide) to ensure a safe and responsible user environment. Admins can review and manage these flagged interactions.
 * **IP Tracking:** All user interactions are logged with their respective IP addresses, which helps with security and accountability.
@@ -37,7 +36,7 @@ Meheng is built on a robust, multi-layered architecture to ensure seamless perfo
 * **Frontend:** The sleek, dark-themed **GUI** is developed using **CustomTkinter**, a modern framework that provides a professional and user-friendly interface.
 * **Backend:** The core logic is powered by **Python**, with functionalities driven by advanced AI and API integrations.
 * **Database:** **MySQL** serves as the backbone for data management, securely handling user profiles, chat history, and security logs.
-* **API Integration:** Meheng leverages the **Google Gemini API** for its advanced conversational and generative AI capabilities, and the **Google Maps API** for all location-based services.
+* **API Integration:** Meheng leverages the **Google Gemini API** for its advanced conversational and generative AI capabilities.
 
 ---
 
